@@ -1,44 +1,21 @@
-![BannerGIF](https://user-images.githubusercontent.com/39513876/112361914-e021f800-8cf9-11eb-9aac-a2b675065afc.gif)
+# Hi 👋, I'm Ivan
+### Python Developer
 
+- 🔭 I’m currently working on 
+- 👯 I’m looking to collaborate on 
+- 🤝 I’m looking for help with 
+- 🌱 I’m currently learning 
+- 💬 Ask me about 
+- 📫 How to reach me 
+- 👨‍💻 All of my projects are available at 
+- 📝 I regularly write articles on 
+- 📄 Know about my experiences 
+- ⚡ Fun fact 
 
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
-![version :10.07.2024](https://img.shields.io/badge/version-10.07.2024-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=AbhishekSinghDhadwal&color=red)&nbsp;
-[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/AbhishekSinghDhadwal?label=follow&style=social)](https://github.com/AbhishekSinghDhadwal)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
-### 👨🏻‍💻 &nbsp;About Me
+### Connect with me:
+<p align="left">
+<a href="https://github.com/Fastroer" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="GitHub" height="30" width="40"/></a> <a href="https://dev.to/" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" alt="Dev.to" height="30" width="40"/></a> <a href="https://codesandbox.io/" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/feather-5/24/codesandbox-512.png" alt="CodeSandbox" height="30" width="40"/></a> <a href="https://in.linkedin.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="40"/></a> <a href="https://www.facebook.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png" alt="Facebook" height="30" width="40"/></a> <a href="https://dribbble.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/408/408743.png" alt="Dribbble" height="30" width="40"/></a> <a href="https://hashnode.com/" target="blank"><img align="center" src="https://iconape.com/wp-content/png_logo_vector/cib-hashnode.png" alt="Hashnode" height="30" width="40"/></a> <a href="https://www.youtube.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" alt="YouTube" height="30" width="40"/></a> <a href="https://www.hackerrank.com/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-hackerrank-3628233-3031053.png" alt="Hackerrank" height="30" width="40"/></a> <a href="https://leetcode.com/" target="blank"><img align="center" src="https://www.svgrepo.com/show/306328/leetcode.svg" alt="Leetcode" height="30" width="40"/></a> <a href="https://www.hackerearth.com/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/hackerearth-icon-444x512-0heomwse.png" alt="HackerEarth" height="30" width="40"/></a> <a href="https://discord.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="Discord" height="30" width="40"/></a> <a href="https://twitter.com/" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/515/1/png-transparent-twitter-logo-computer-icons-logo-twitter-icon-computer-wallpaper-monochrome-bird-thumbnail.png" alt="Twitter" height="30" width="40"/></a> <a href="https://codepen.io/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1906/PNG/512/iconfinder-codepen-4550862_121336.png" alt="Codepen" height="30" width="40"/></a> <a href="https://stackoverflow.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111690.png" alt="StackOverflow" height="30" width="40"/></a> <a href="https://www.instagram.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384031.png" alt="Instagram" height="30" width="40"/></a> <a href="https://www.kaggle.com/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-kaggle-3628281-3031974.png" alt="Kaggle" height="30" width="40"/></a> <a href="https://www.behance.net/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733594.png" alt="Behance" height="30" width="40"/></a> <a href="https://medium.com/" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" alt="Medium" height="30" width="40"/></a> <a href="https://www.codechef.com/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/codechef-icon-380x512-r1v87w22.png" alt="Codechef" height="30" width="40"/></a> <a href="https://codeforces.com/" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codeforces-512.png" alt="Codeforces" height="30" width="40"/></a> <a href="https://www.topcoder.com/" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/topcoder-512.png" alt="Topcoder" height="30" width="40"/></a> <a href="https://www.geeksforgeeks.org/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/geeksforgeeks-icon-512x264-y71dixbv.png" alt="GeeksforGeeks" height="30" width="40"/></a> <a href="https://rss.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="Reddit" height="30" width="40"/></a> </p>
 
-💡 &nbsp; I'm a software developer and researcher by profession, and an incoming MS in Computer Science (Biomedical Informatics) student at Arizona State University! \
-💻 &nbsp;I'm currently performing research in the field of multimodal detection of human behavioral patterns and computational psychiatry.\
-🎓&nbsp;I graduated form Visvesvaraya National Institute of Technology, Nagpur (B.Tech, Computer Science and Engineering, Batch of 2021).\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.\
-✍️ &nbsp;In my free time, I play guitar, football and pursue writing as my hobbies.\
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
-✉️ &nbsp;You can email me at asinghdhadwal@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/abhishek-singh-dhadwal/) for more details about work experience.
-
-
-### 🛠 &nbsp;Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![jUnit](https://img.shields.io/badge/jUnit%20-%23150458.svg?&style=flat&logo=Java&logoColor=white)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
-![JMH](https://img.shields.io/badge/JMH%20-%23150458.svg?&style=flat&logo=Java&logoColor=white)&nbsp;
-
-### 📫 &nbsp; How to reach me:
-
-
-<a href="https://www.linkedin.com/in/abhishek-singh-dhadwal/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:asinghdhadwal@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+### Languages and Tools:
+<p align="left">
+<a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40" width="40"/></a> <a href="https://en.wikipedia.org/wiki/JavaScript" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="40" width="40"/></a> <a href="https://en.wikipedia.org/wiki/RabbitMQ" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" height="40" width="40"/></a> <a href="https://en.wikipedia.org/wiki/Apache_Kafka" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" height="40" width="40"/></a> <a href="https://en.wikipedia.org/wiki/PostgreSQL" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="40" width="40"/></a> <a href="https://en.wikipedia.org/wiki/Redis" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" height="40" width="40"/></a> <a href="https://en.wikipedia.org/wiki/SQLite" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" height="40" width="40"/></a> <a href="https://en.wikipedia.org/wiki/MySQL" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40" width="40"/></a> <a href="https://en.wikipedia.org/wiki/MongoDB" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="40" width="40"/></a> <a href="https://en.wikipedia.org/wiki/Docker_(software)" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="40" width="40"/></a> <a href="https://en.wikipedia.org/wiki/Kubernetes" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" height="40" width="40"/></a> <a href="https://en.wikipedia.org/wiki/Django_(web_framework)" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" height="40" width="40"/></a> <a href="https://en.wikipedia.org/wiki/Linux" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40" width="40"/></a> <a href="https://en.wikipedia.org/wiki/Git" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40" width="40"/></a> </p>
