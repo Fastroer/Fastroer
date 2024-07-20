@@ -30,19 +30,19 @@ What made me fall in love with web development and front-end is the capability t
 ## 💻 Tech stack
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="/images/python.svg" width="7.5%">
-  <img src="/images/postgresql.svg" width="7.5%">
-  <img src="/images/js-file.svg" width="7.5%">
-  <img src="/images/linux (1).svg" width="7.5%">
-  <img src="/images/django.svg" width="7.5%">
-  <img src="/images/database.svg" width="7.5%">
-  <img src="/images/docker.svg" width="7.5%">
-  <img src="/images/github.svg" width="7.5%">
-  <img src="/images/rabbitmq.svg" width="7.5%">
-  <img src="/images/redis.svg" width="7.5%">
-  <img src="/images/html5.svg" width="7.5%">
-  <img src="/images/css.svg" width="7.5%">
-  <img src="/images/git.svg" width="7.5%">
+  <img src="/images/python.svg" width="7.4%">
+  <img src="/images/postgresql.svg" width="7.4%">
+  <img src="/images/javascript.svg" width="7.4%">
+  <img src="/images/linux (1).svg" width="7.4%">
+  <img src="/images/django.svg" width="7.4%">
+  <img src="/images/database.svg" width="7.4%">
+  <img src="/images/docker.svg" width="7.4%">
+  <img src="/images/github.svg" width="7.4%">
+  <img src="/images/rabbitmq.svg" width="7.4%">
+  <img src="/images/redis.svg" width="7.4%">
+  <img src="/images/html5.svg" width="7.4%">
+  <img src="/images/css.svg" width="7.4%">
+  <img src="/images/git.svg" width="7.4%">
 </div>
 
 ---
