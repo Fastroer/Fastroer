@@ -29,13 +29,20 @@ What made me fall in love with web development and front-end is the capability t
 
 ## 💻 Tech stack
 
-![Python Logo](/images/python-logo-only.svg)
-![CSS Logo](/images/css3.svg)
-![Javascript Logo](/images/javascript.svg)
-![ReactJS Logo](/images/reactjs.svg)
-![NextJS Logo](/images/nextjs.svg)
-![Typescript Logo](/images/typescript.svg)
-![React-Native Logo](/images/react-native.svg)
+![Python Logo](/images/python.svg)
+![POstgres Logo](/images/postgresql.svg)
+![Javascript Logo](/images/js.svg)
+![Linux Logo](/images/linux.svg)
+![Django Logo](/images/django.svg)
+![DB Logo](/images/database-system.svg)
+![Docker Logo](/images/docker.svg)
+![Github Logo](/images/github.svg)
+![Rabbit Logo](/images/rabbitmq.svg)
+![Kafka Logo](/images/kafka.svg)
+![HTTP Logo](/images/http.svg)
+![HTML Logo](/images/html5.svg)
+![CSS Logo](/images/css.svg)
+![API Logo](/images/api.svg)
 
 ---
 
