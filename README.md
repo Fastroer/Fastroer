@@ -29,6 +29,14 @@ What made me fall in love with web development and front-end is the capability t
 
 ## 💻 Tech stack
 
+<style>
+  .tech-stack img {
+    width: 50px;
+    height: auto;
+    margin: 5px;
+  }
+</style>
+
 <div class="tech-stack" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="/images/python.svg">
   <img src="/images/postgresql.svg">
