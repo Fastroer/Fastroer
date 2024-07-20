@@ -29,22 +29,22 @@ What made me fall in love with web development and front-end is the capability t
 
 ## 💻 Tech stack
 
-<p>
-  <img src="/images/python.svg" width="50px" style="display: inline-block;">
-  <img src="/images/postgresql.svg" width="50px" style="display: inline-block;">
-  <img src="/images/js.svg" width="50px" style="display: inline-block;">
-  <img src="/images/linux.svg" width="50px" style="display: inline-block;">
-  <img src="/images/django.svg" width="50px" style="display: inline-block;">
-  <img src="/images/database-system.svg" width="50px" style="display: inline-block;">
-  <img src="/images/docker.svg" width="50px" style="display: inline-block;">
-  <img src="/images/github.svg" width="50px" style="display: inline-block;">
-  <img src="/images/rabbitmq.svg" width="50px" style="display: inline-block;">
-  <img src="/images/kafka.svg" width="50px" style="display: inline-block;">
-  <img src="/images/http.svg" width="50px" style="display: inline-block;">
-  <img src="/images/html5.svg" width="50px" style="display: inline-block;">
-  <img src="/images/css.svg" width="50px" style="display: inline-block;">
-  <img src="/images/api.svg" width="50px" style="display: inline-block;">
-</p>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="/images/python.svg" width="50px">
+  <img src="/images/postgresql.svg" width="50px">
+  <img src="/images/js.svg" width="50px">
+  <img src="/images/linux.svg" width="50px">
+  <img src="/images/django.svg" width="50px">
+  <img src="/images/database-system.svg" width="50px">
+  <img src="/images/docker.svg" width="50px">
+  <img src="/images/github.svg" width="50px">
+  <img src="/images/rabbitmq.svg" width="50px">
+  <img src="/images/kafka.svg" width="50px">
+  <img src="/images/http.svg" width="50px">
+  <img src="/images/html5.svg" width="50px">
+  <img src="/images/css.svg" width="50px">
+  <img src="/images/api.svg" width="50px">
+</div>
 
 ---
 
