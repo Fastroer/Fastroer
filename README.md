@@ -29,27 +29,21 @@ What made me fall in love with web development and front-end is the capability t
 
 ## 💻 Tech stack
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <style>
-    .tech-logo {
-      width: 60px;
-      height: auto;
-    }
-  </style>
-  <img src="/images/python.svg" class="tech-logo">
-  <img src="/images/postgresql.svg" class="tech-logo">
-  <img src="/images/js.svg" class="tech-logo">
-  <img src="/images/linux.svg" class="tech-logo">
-  <img src="/images/django.svg" class="tech-logo">
-  <img src="/images/database-system.svg" class="tech-logo">
-  <img src="/images/docker.svg" class="tech-logo">
-  <img src="/images/github.svg" class="tech-logo">
-  <img src="/images/rabbitmq.svg" class="tech-logo">
-  <img src="/images/kafka.svg" class="tech-logo">
-  <img src="/images/http.svg" class="tech-logo">
-  <img src="/images/html5.svg" class="tech-logo">
-  <img src="/images/css.svg" class="tech-logo">
-  <img src="/images/api.svg" class="tech-logo">
+<div class="tech-stack" style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="/images/python.svg">
+  <img src="/images/postgresql.svg">
+  <img src="/images/js.svg">
+  <img src="/images/linux.svg">
+  <img src="/images/django.svg">
+  <img src="/images/database-system.svg">
+  <img src="/images/docker.svg">
+  <img src="/images/github.svg">
+  <img src="/images/rabbitmq.svg">
+  <img src="/images/kafka.svg">
+  <img src="/images/http.svg">
+  <img src="/images/html5.svg">
+  <img src="/images/css.svg">
+  <img src="/images/api.svg">
 </div>
 
 ---
