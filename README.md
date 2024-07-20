@@ -39,7 +39,6 @@ What made me fall in love with web development and front-end is the capability t
   <img src="/images/docker.svg" width="70px">
   <img src="/images/github.svg" width="70px">
   <img src="/images/rabbitmq.svg" width="70px">
-  <img src="/images/kafka.svg" width="70px">
   <img src="/images/http.svg" width="70px">
   <img src="/images/html5.svg" width="70px">
   <img src="/images/css.svg" width="70px">
