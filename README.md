@@ -1,6 +1,6 @@
 <img src="./images/computer.gif" width="100%"/>
 
-# 🖖 Hey dev! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=luis-gustavoj&style=flat-square&color=blueviolet">
+# 👋 Hey dev! Welcome to my profile
 
 I'm a python developer!
 
@@ -50,10 +50,13 @@ What made me fall in love with web development and front-end is the capability t
 <p align="center"> 
   <i>Thanks for passing by</i><br><br>
   <i>Feel free to connect with me</i><br><br>
-  <a href="https://www.linkedin.com/in/luis-silva-8b0334185/">
-    <code><img alt="My linkedin" width="32" src="./images/linkedin.svg" /></code>
+  <a href="https://www.linkedin.com/in/ivan-gerasimchik-412196280/">
+    <code><img alt="My linkedin" width="32" src="/images/linkedin (1).svg" /></code>
   </a>
-  <a href="https://instagram.com/luis_gustavoj">
-    <code><img alt="My e-mail" width="32" src="./images/instagram.svg" /></code>
+  <a href="https://www.instagram.com/zavtra_scagu/">
+    <code><img alt="My instagram" width="32" src="/images/instagram (1).svg" /></code>
+  </a>
+  <a href="https://t.me/Fastroer">
+    <code><img alt="My telegram" width="32" src="/images/telegram.svg" /></code>
   </a>
 </p>
