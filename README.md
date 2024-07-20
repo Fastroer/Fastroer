@@ -29,7 +29,7 @@ What made me fall in love with web development and front-end is the capability t
 
 ## 💻 Tech stack
 
-![Python Logo]([images/python-original.svg](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg))
+![Python Logo]([images/python-logo-only.svg))
 ![CSS Logo](/images/css3.svg)
 ![Javascript Logo](/images/javascript.svg)
 ![ReactJS Logo](/images/reactjs.svg)
