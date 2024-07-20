@@ -30,19 +30,19 @@ What made me fall in love with web development and front-end is the capability t
 ## 💻 Tech stack
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="/images/python.svg" width="70px">
-  <img src="/images/postgresql.svg" width="70px">
-  <img src="/images/js-file.svg" width="70px">
-  <img src="/images/linux (1).svg" width="70px">
-  <img src="/images/django.svg" width="70px">
-  <img src="/images/database.svg" width="70px">
-  <img src="/images/docker.svg" width="70px">
-  <img src="/images/github.svg" width="70px">
-  <img src="/images/rabbitmq.svg" width="70px">
-  <img src="/images/redis.svg" width="70px">
-  <img src="/images/html5.svg" width="70px">
-  <img src="/images/css.svg" width="70px">
-  <img src="/images/git.svg" width="70px">
+  <img src="/images/python.svg" style="flex: 1 0 14%; height: auto;">
+  <img src="/images/postgresql.svg" style="flex: 1 0 14%; height: auto;">
+  <img src="/images/js-file.svg" style="flex: 1 0 14%; height: auto;">
+  <img src="/images/linux (1).svg" style="flex: 1 0 14%; height: auto;">
+  <img src="/images/django.svg" style="flex: 1 0 14%; height: auto;">
+  <img src="/images/database.svg" style="flex: 1 0 14%; height: auto;">
+  <img src="/images/docker.svg" style="flex: 1 0 14%; height: auto;">
+  <img src="/images/github.svg" style="flex: 1 0 14%; height: auto;">
+  <img src="/images/rabbitmq.svg" style="flex: 1 0 14%; height: auto;">
+  <img src="/images/redis.svg" style="flex: 1 0 14%; height: auto;">
+  <img src="/images/html5.svg" style="flex: 1 0 14%; height: auto;">
+  <img src="/images/css.svg" style="flex: 1 0 14%; height: auto;">
+  <img src="/images/git.svg" style="flex: 1 0 14%; height: auto;">
 </div>
 
 ---
