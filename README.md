@@ -1,4 +1,4 @@
-<img src="./images/computer.gif" width="100px" style="display: inline-block;"/>
+<img src="./images/computer.gif" width="100%"/>
 
 # 🖖 Hey dev! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=luis-gustavoj&style=flat-square&color=blueviolet">
 
@@ -30,20 +30,26 @@ What made me fall in love with web development and front-end is the capability t
 ## 💻 Tech stack
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="/images/python.svg" width="50px">
-  <img src="/images/postgresql.svg" width="50px">
-  <img src="/images/js.svg" width="50px">
-  <img src="/images/linux.svg" width="50px">
-  <img src="/images/django.svg" width="50px">
-  <img src="/images/database-system.svg" width="50px">
-  <img src="/images/docker.svg" width="50px">
-  <img src="/images/github.svg" width="50px">
-  <img src="/images/rabbitmq.svg" width="50px">
-  <img src="/images/kafka.svg" width="50px">
-  <img src="/images/http.svg" width="50px">
-  <img src="/images/html5.svg" width="50px">
-  <img src="/images/css.svg" width="50px">
-  <img src="/images/api.svg" width="50px">
+  <style>
+    .tech-logo {
+      width: 60px;
+      height: auto;
+    }
+  </style>
+  <img src="/images/python.svg" class="tech-logo">
+  <img src="/images/postgresql.svg" class="tech-logo">
+  <img src="/images/js.svg" class="tech-logo">
+  <img src="/images/linux.svg" class="tech-logo">
+  <img src="/images/django.svg" class="tech-logo">
+  <img src="/images/database-system.svg" class="tech-logo">
+  <img src="/images/docker.svg" class="tech-logo">
+  <img src="/images/github.svg" class="tech-logo">
+  <img src="/images/rabbitmq.svg" class="tech-logo">
+  <img src="/images/kafka.svg" class="tech-logo">
+  <img src="/images/http.svg" class="tech-logo">
+  <img src="/images/html5.svg" class="tech-logo">
+  <img src="/images/css.svg" class="tech-logo">
+  <img src="/images/api.svg" class="tech-logo">
 </div>
 
 ---
