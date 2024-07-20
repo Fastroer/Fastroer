@@ -1,4 +1,4 @@
-<img src="./images/computer.gif" width="100%"/>
+<img src="./images/computer.gif" width="100px"/>
 
 # 🖖 Hey dev! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=luis-gustavoj&style=flat-square&color=blueviolet">
 
@@ -29,30 +29,30 @@ What made me fall in love with web development and front-end is the capability t
 
 ## 💻 Tech stack
 
-![Python Logo](/images/python.svg)
-![POstgres Logo](/images/postgresql.svg)
-![Javascript Logo](/images/js.svg)
-![Linux Logo](/images/linux.svg)
-![Django Logo](/images/django.svg)
-![DB Logo](/images/database-system.svg)
-![Docker Logo](/images/docker.svg)
-![Github Logo](/images/github.svg)
-![Rabbit Logo](/images/rabbitmq.svg)
-![Kafka Logo](/images/kafka.svg)
-![HTTP Logo](/images/http.svg)
-![HTML Logo](/images/html5.svg)
-![CSS Logo](/images/css.svg)
-![API Logo](/images/api.svg)
+<img src="/images/python.svg" width="50px">
+<img src="/images/postgresql.svg" width="50px">
+<img src="/images/js.svg" width="50px">
+<img src="/images/linux.svg" width="50px">
+<img src="/images/django.svg" width="50px">
+<img src="/images/database-system.svg" width="50px">
+<img src="/images/docker.svg" width="50px">
+<img src="/images/github.svg" width="50px">
+<img src="/images/rabbitmq.svg" width="50px">
+<img src="/images/kafka.svg" width="50px">
+<img src="/images/http.svg" width="50px">
+<img src="/images/html5.svg" width="50px">
+<img src="/images/css.svg" width="50px">
+<img src="/images/api.svg" width="50px">
 
 ---
 
-<p align="center" > 
+<p align="center"> 
   <i>Thanks for passing by</i><br><br>
   <i>Feel free to connect with me</i><br><br>
   <a href="https://www.linkedin.com/in/luis-silva-8b0334185/">
-  <code><img alt="My linkedin" width="32" src="./images/linkedin.svg" /></code>
-</a>
-<a href="https://instagram.com/luis_gustavoj">
-<code><img alt="My e-mail" width="32" src="./images/instagram.svg" /></code>
-</a>
+    <code><img alt="My linkedin" width="32" src="./images/linkedin.svg" /></code>
+  </a>
+  <a href="https://instagram.com/luis_gustavoj">
+    <code><img alt="My e-mail" width="32" src="./images/instagram.svg" /></code>
+  </a>
 </p>
